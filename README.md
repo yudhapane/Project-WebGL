@@ -1,4 +1,4 @@
-# H1 PROJECT WEBGL 
+# Project WebGL
 
 Powered by ![alt text](http://upload.wikimedia.org/wikipedia/commons/3/39/WebGL_logo.png "WebGL logo")
 
