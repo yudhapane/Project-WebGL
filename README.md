@@ -1,14 +1,14 @@
 ************************************
-            ##PROJECT WEBGL 
+								## PROJECT WEBGL 
 ************************************
 
 ==============
-![alt text](http://upload.wikimedia.org/wikipedia/commons/3/39/WebGL_logo.png "WebGL logo")
+Powered by ![alt text](http://upload.wikimedia.org/wikipedia/commons/3/39/WebGL_logo.png "WebGL logo")
 
 Author: 
 
-1. Yudha Pane (yudhapane@yahoo.com) [homepage](https://sites.google.com/site/yppane/)
-2. Muhammad Arijal
+1. Yudha Pane - yudhapane@yahoo.com [homepage](https://sites.google.com/site/yppane/)
+2. Muhammad Arijal - arijal.evolutionx@gmail.com
 
 Created on: 14-Dec-2014
 
