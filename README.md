@@ -1,10 +1,12 @@
 ************************************
-********* PROJECT WEBGL ************
+********* ## PROJECT WEBGL ************
 ************************************
 
+==============
+![alt text](http://upload.wikimedia.org/wikipedia/commons/3/39/WebGL_logo.png "WebGL logo")
 
 Author: 
-1. Yudha Pane (yudhapane@yahoo.com)
+1. Yudha Pane (yudhapane@yahoo.com) [homepage](https://sites.google.com/site/yppane/)
 2. Muhammad Arijal
 
 Created on: 14-Dec-2014
