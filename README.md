@@ -1,8 +1,5 @@
-************************************
-								## PROJECT WEBGL 
-************************************
+# H1 PROJECT WEBGL 
 
-==============
 Powered by ![alt text](http://upload.wikimedia.org/wikipedia/commons/3/39/WebGL_logo.png "WebGL logo")
 
 Author: 
@@ -22,9 +19,3 @@ Folders:
 1. MATLAB: contains the dynamics and controller implemented on .m files
 2. WebGL: contains the web-based GUI programs 
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
