@@ -19,7 +19,7 @@ Folders:
 1. MATLAB: contains the dynamics and controller implemented on .m files
 2. WebGL: contains the web-based GUI programs 
 
-The purpose of this simple, yet very useful project is twofold. The first one concerns the 
+The purpose of this simple, yet very useful project is twofold. The first one concerns about the 
 educational aspect of the project which aims to explore the role of interactive visualization 
-in accelerating learning process. The second one deals with technical purpose: as an exercise
-to computer graphics library (WebGL) and to study the relatively new concept in robotics - [geometry and screw theory] (http://www2.moundsviewschools.org/chippewa/userfiles/depiesj/geometry_and_screw_theory_for_robotics.pdf).
+in accelerating learning process. The second one deals with technical aspect: as an exercise
+to computer graphics library (WebGL) and to study a relatively new concept in robotics - [geometry and screw theory] (http://www2.moundsviewschools.org/chippewa/userfiles/depiesj/geometry_and_screw_theory_for_robotics.pdf).
