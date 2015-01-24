@@ -53,8 +53,9 @@ function animate()
 	requestAnimationFrame(animate);
 	
 	// Rotate the box to visualize WebGL in 3D
-	box.rotation.x	+= 0.01;
-    box.rotation.y	+= 0.02;
+	box.rotation.x	+= 0.001;
+        box.rotation.y	+= 0.02;
+	//box.translation.x += 0.1;
 
 	// Render the scene object
 	renderer.render(scene, camera);
