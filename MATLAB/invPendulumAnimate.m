@@ -43,7 +43,7 @@ function invPendulumAnimate(simData)%,xylist)
         % table
 %         table_pos = [-1, 4; -0.051 -0.051];
 %         set(table,'Xdata',table_pos(1,:),'Ydata',table_pos(2,:));
-        axis([-2 2 -1 1]); %axis equal;
+        axis([-2 3 -1 1]); %axis equal;
         drawnow
         pause(0.05);
     end

@@ -30,7 +30,7 @@ Model {
       $ObjectID		      2
       $ClassName	      "Simulink.WindowInfo"
       IsActive		      [1]
-      Location		      [1911.0, 0.0, 1938.0, 1050.0]
+      Location		      [-9.0, -9.0, 1938.0, 1050.0]
       Object {
 	$PropName		"ModelBrowserInfo"
 	$ObjectID		3
@@ -67,7 +67,7 @@ Model {
   LastModifiedBy	  "yudhapane"
   ModifiedDateFormat	  "%<Auto>"
   LastModifiedDate	  "Sat Jan 24 20:19:34 2015"
-  RTWModifiedTimeStamp	  344035867
+  RTWModifiedTimeStamp	  344077230
   ModelVersionFormat	  "1.%<AutoIncrement:160>"
   ConfigurationManager	  "none"
   SampleTimeColors	  off
@@ -904,7 +904,7 @@ Model {
   }
   System {
     Name		    "invPendulumSim"
-    Location		    [1911, 0, 3849, 1050]
+    Location		    [-9, -9, 1929, 1041]
     Open		    on
     ModelBrowserVisibility  off
     ModelBrowserWidth	    200
@@ -936,7 +936,7 @@ Model {
       SID		      "76"
       Position		      [125, 145, 155, 175]
       ZOrder		      18
-      Gain		      "3"
+      Gain		      "2"
       ParamDataTypeStr	      "Inherit: Inherit via internal rule"
       OutDataTypeStr	      "Inherit: Inherit via internal rule"
       SaturateOnIntegerOverflow	off
